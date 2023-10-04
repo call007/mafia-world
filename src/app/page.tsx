@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Let&lsquo;s check an auto deploy <br />
+          Let&lsquo;s check an auto deploy 2 <br />
           Get started by editing&nbsp;
           <code className={styles.code}>src/app/page.tsx</code>
         </p>
